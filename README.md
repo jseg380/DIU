@@ -53,8 +53,8 @@ Comienzo de la realización del análisis competitivo, hemos seleccionado las em
 ![Método UX](img/Persona.png). 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
->>> Creados 2/3 personas
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha.
+<p>Creados 2/3 personas.</p>
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
