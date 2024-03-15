@@ -35,20 +35,21 @@ Miembros
 -----
 
 >>> Describe el plan de User Research (cómo se planteas)
+<br>
+<br>
 >>> Actualización de la primera tarea, realización de los ejercicios desde el 1 hasta el 5.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
->>> <br>
 <br>
 <br>
->>> Las aplicaciones que tenemos asignadas tratan sobre escuelas de teatro.
->>> La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.
->>> La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
->>> En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
->>> Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model 
+
+Las aplicaciones que tenemos asignadas tratan sobre escuelas de teatro.
+La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
+En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
+Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
