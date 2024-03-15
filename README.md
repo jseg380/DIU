@@ -42,6 +42,8 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
 >>> <br>
+<br>
+<br>
 >>> Las aplicaciones que tenemos asignadas tratan sobre escuelas de teatro.
 >>> La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.
 >>> La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
