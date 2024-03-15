@@ -44,7 +44,8 @@ Miembros
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
 <br>
 <p>Las aplicaciones que tenemos asignadas tratan sobre escuelas de teatro.
-La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
+La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.<br>
+La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
 En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
 Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model 
 </p>
