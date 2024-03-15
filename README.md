@@ -48,7 +48,8 @@ La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus men�
 En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
 Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model 
 </p>
-![Método UX](img/Persona.png) 1.c Persona
+
+![Método UX](img/Persona.png). 1.c Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
