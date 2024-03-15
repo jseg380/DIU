@@ -15,8 +15,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Alonso Doña Martínez     :octocat:     
+ * :bust_in_silhouette:  Jose Ramón Plaza Plaza     :octocat:
+ * :bust_in_silhouette:  Juan Manuel Segura Duarte     :octocat:
 
 ----- 
 
@@ -33,17 +34,24 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Describe el plan de User Research (cómo se planteas)
+>>> Actualización de la primera tarea, realización de los ejercicios desde el 1 hasta el 5.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
+>>> Las aplicaciones que tenemos asignadas tratan sobre escuelas de teatro.
+>>> La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.
+>>> La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
+>>> En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
+>>> Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
+>>> Creados 2/3 personas
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
