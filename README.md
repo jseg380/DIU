@@ -54,7 +54,7 @@ Comienzo de la realización del análisis competitivo, hemos seleccionado las em
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha.
-<p>Creados 2/3 personas.</p>
+<p>Creados 3/3 personas.</p>
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
@@ -64,11 +64,11 @@ Comienzo de la realización del análisis competitivo, hemos seleccionado las em
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - https://github.com/jseg380/DIU/blob/master/P1/Usability-review.xls
->>> - Valoración final (numérica): 48
->>> - Comentario sobre la valoración: Hay aspectos que mejorar en la web para que sea totalmente usable pero, hasta cierto punto, está decente.
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
+>>>> Se deben incluir claramente los siguientes elementos
+ - https://github.com/jseg380/DIU/blob/master/P1/Usability-review.xls
+ - Valoración final (numérica): 48
+ - Comentario sobre la valoración: Hay aspectos que mejorar en la web para que sea totalmente usable pero, hasta cierto punto, está decente.
 
 
 ## Paso 2. UX Design  
