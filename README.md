@@ -66,9 +66,9 @@ Comienzo de la realización del análisis competitivo, hemos seleccionado las em
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - https://github.com/jseg380/DIU/blob/master/P1/Usability-review.xls
+>>> - Valoración final (numérica): 48
+>>> - Comentario sobre la valoración: Hay aspectos que mejorar en la web para que sea totalmente usable pero, hasta cierto punto, está decente.
 
 
 ## Paso 2. UX Design  
