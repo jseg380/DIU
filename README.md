@@ -51,7 +51,7 @@ el fin de que sea accesible para cualquier persona.
 En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
 Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model.
 
-![Competitive Analysis](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/competitive-analysis.png "Competitive Analysis")
+<img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/competitive-analysis.png" alt="Competitive Analysis" />
 
 </p>
 
@@ -60,7 +60,7 @@ Comienzo de la realización del análisis competitivo, hemos seleccionado las em
 
 #### Persona 1
 ----- 
-<p>![Persona1](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona1.png "Persona1")
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona1.png" alt="Persona1" />
 
 Mi persona creada ha sido un amante del deporte, hace unos años ganó cierta relevancia como jugador de fútbol profesional pero debido a una  grave lesión tuvo que retirarse. A día de hoy su vida sigue enfocada en el deporte pero quiere darle un vuelco ya que debido a su personalidad abierta y sin miedo al fracaso quiere volver a recuperar la relevancia social y comenzar su marca personal en redes sociales, para ello cree que el teatro puede ser una gran oportunidad para ganar relevancia.
 
@@ -68,7 +68,7 @@ Mi persona creada ha sido un amante del deporte, hace unos años ganó cierta re
   
 #### Persona 2
 ----- 
-<p>![Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona2.png "Persona2")
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona2.png" alt="Persona2" />
 
 He basado esta persona en lo que puede ser una persona de mi pueblo. Es un padre de familia que se dedica al campo y que además es muy aficionado al fútbol. Sus hobbies son jugar al fútbol y hacer deporte en general y el hecho que lo lleva a tener relación con este tipo de actividades es que su hija estudia arte escénico y esto ha despertado en el interes por este mundillo.
 
@@ -76,7 +76,7 @@ He basado esta persona en lo que puede ser una persona de mi pueblo. Es un padre
 
 #### Persona 3
 ----- 
-<p>![Persona3](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona3.png "Persona3")
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona3.png" alt="Persona3" />
 
 Mi persona se ha basado en una ciudadana nativa de Granada. A pesar de haberse dedicado a una carrera de ingeniería le apasiona explorar nuevos conceptos y expresar su creatividad de formas desconocidas para ella hasta entonces.
 
@@ -88,7 +88,7 @@ Mi persona se ha basado en una ciudadana nativa de Granada. A pesar de haberse d
 
 #### Persona 1
 ----- 
-<p>![Journey Map Persona1](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona1.png "Journey Map Persona1")
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona1.png" alt="Journey Map Persona1" />
 
 La experiencia durante esta actividad ha sido dura e intensa pero muy positiva puesto que ha aprendido todo lo necesario para adentrarse en el mundo del teatro.
 
@@ -96,7 +96,7 @@ La experiencia durante esta actividad ha sido dura e intensa pero muy positiva p
 
 #### Persona 2
 ----- 
-<p>![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona2.png "Journey Map Persona2")
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona2.png" alt="Journey Map Persona2" />
 
 Al principio no fue fácil para este personaje ya que no tenía mucha experiencia con las tecnologías pero la curiosidad y las ganas de sentirse más cerca de su hija le ha llevado a informarse, poniendo de su parte, para encontrar un escuela de teatro que le gustara.
 
