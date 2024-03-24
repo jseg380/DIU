@@ -105,7 +105,7 @@ Al principio no fue fácil para este personaje ya que no tenía mucha experienci
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 <p>
-Enlace al documento: https://github.com/jseg380/DIU/blob/master/P1/Usability-review.pdf
+Enlace al documento: https://github.com/jseg380/DIU/blob/master/P1/1e-Usability-review.pdf
 
 Comentario: Hay una cantidad considerable de aspectos a mejorar en la página web, desde los más obvios como son la estética hasta otros más difíciles de percibir, como son los de accesibilidad. El rendimiento de la página es muy mejorable, los tiempos de carga son excesivamente largos incluso para conexiones excelentes. El layout (disposición) de la paǵina está un poco roto incluso en tamaños de pantalla muy estándares (como las de ordenadores con 1920x1080).
 
