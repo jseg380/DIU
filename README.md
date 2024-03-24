@@ -1,8 +1,8 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Espacio la estupenda) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1.PatosdelParque.  Curso: 2023/24 
+Updated: 24/03/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,15 +15,11 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Alonso Doña Martínez     :octocat:     
+ * :bust_in_silhouette:  Alonso Doña Martínez     :octocat:
  * :bust_in_silhouette:  Jose Ramón Plaza Plaza     :octocat:
  * :bust_in_silhouette:  Juan Manuel Segura Duarte     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -31,44 +27,90 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+![Método UX](img/Competitive.png) 1.a User Reseach Plan
 -----
 
->>> Describe el plan de User Research (cómo se planteas)
-<br>
-<p>Actualización de la primera tarea, realización de los ejercicios desde el 1 hasta el 5.</p>  
+<p>Este proyecto trata de hacer un análisis de usabilidad de una página web a ciertos tipos de
+personas con el fin de ver que podemos mejorar de manera que nuestra web sea lo más
+accesible posible para todas las personas.
+
+El propósito de esta investigación es ver cómo distintas personas, de diferentes estilos de
+vida, usan una página web. Lo que para unos parece muy obvio e intuitivo para otras
+personas puede no serlo así por lo que con esta investigación podemos ver que mejorar con
+el fin de que sea accesible para cualquier persona.
+
+</p>
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
-<br>
 <p>Las aplicaciones que tenemos asignadas tratan sobre escuelas de teatro.
-La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.<br>
-La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
+- La aplicación "Espacio la estupenda" : tiene una peor aparencia visual sus menús,desplegables y contenido no produce ninguna atracción visual y en cuanto a accesibilidad y fácil entendimiento por parte del usuario es negativo.
+- La aplicación "Doblaje Remiendo" pese a que presenta mejor apariencia visual sigue presentado errores muy graves de accesibilidad, de facibilidad de uso y de seguridad.
+
 En nuestro caso nos hemos decidido por "La estupenda" ya que pensamos que la parte visual es súper necesaria a la hora de crear un sitio web y en este caso no se cumple en absoluto 
-Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model 
+Comienzo de la realización del análisis competitivo, hemos seleccionado las empresas competidoras y hemos completado el business model.
+
+![Competitive Analysis](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/competitive-analysis.png "Competitive Analysis")
+
 </p>
 
-![Método UX](img/Persona.png). 1.c Persona
+![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha.
-<p>Creados 3/3 personas.</p>
+#### Persona 1
+----- 
+<p>![Persona1](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona1.png "Persona1")
+
+Mi persona creada ha sido un amante del deporte, hace unos años ganó cierta relevancia como jugador de fútbol profesional pero debido a una  grave lesión tuvo que retirarse. A día de hoy su vida sigue enfocada en el deporte pero quiere darle un vuelco ya que debido a su personalidad abierta y sin miedo al fracaso quiere volver a recuperar la relevancia social y comenzar su marca personal en redes sociales, para ello cree que el teatro puede ser una gran oportunidad para ganar relevancia.
+
+</p>
+  
+#### Persona 2
+----- 
+<p>![Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona2.png "Persona2")
+
+He basado esta persona en lo que puede ser una persona de mi pueblo. Es un padre de familia que se dedica al campo y que además es muy aficionado al fútbol. Sus hobbies son jugar al fútbol y hacer deporte en general y el hecho que lo lleva a tener relación con este tipo de actividades es que su hija estudia arte escénico y esto ha despertado en el interes por este mundillo.
+
+</p>
+
+#### Persona 3
+----- 
+<p>![Persona3](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/persona3.png "Persona3")
+
+Mi persona se ha basado en una ciudadana nativa de Granada. A pesar de haberse dedicado a una carrera de ingeniería le apasiona explorar nuevos conceptos y expresar su creatividad de formas desconocidas para ella hasta entonces.
+
+
+</p>
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
+#### Persona 1
+----- 
+<p>![Journey Map Persona1](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona1.png "Journey Map Persona1")
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+La experiencia durante esta actividad ha sido dura e intensa pero muy positiva puesto que ha aprendido todo lo necesario para adentrarse en el mundo del teatro.
+
+</p>
+
+#### Persona 2
+----- 
+<p>![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona2.png "Journey Map Persona2")
+
+Al principio no fue fácil para este personaje ya que no tenía mucha experiencia con las tecnologías pero la curiosidad y las ganas de sentirse más cerca de su hija le ha llevado a informarse, poniendo de su parte, para encontrar un escuela de teatro que le gustara.
+
+</p>
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
->>>> Se deben incluir claramente los siguientes elementos
- - https://github.com/jseg380/DIU/blob/master/P1/Usability-review.xls
- - Valoración final (numérica): 48
- - Comentario sobre la valoración: Hay aspectos que mejorar en la web para que sea totalmente usable pero, hasta cierto punto, está decente.
+<p>
+Enlace al documento: https://github.com/jseg380/DIU/blob/master/P1/Usability-review.pdf
+
+Comentario: Hay una cantidad considerable de aspectos a mejorar en la página web, desde los más obvios como son la estética hasta otros más difíciles de percibir, como son los de accesibilidad. El rendimiento de la página es muy mejorable, los tiempos de carga son excesivamente largos incluso para conexiones excelentes. El layout (disposición) de la paǵina está un poco roto incluso en tamaños de pantalla muy estándares (como las de ordenadores con 1920x1080).
+
+Valoración final (numérica): 48
+</p>
 
 
 ## Paso 2. UX Design  
@@ -209,8 +251,8 @@ Resultados y valoración
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -253,7 +295,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
 
 
 
