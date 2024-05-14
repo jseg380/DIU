@@ -5,14 +5,13 @@ Grupo: DIU1.PatosdelParque.  Curso: 2023/24
 Updated: 24/03/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Chess King
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Página web de un club ultra VIP (véase los precios) en el que se organizan torneos y además se puede consultar el ranking de los jugadores actuales.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P3/logo.png" alt="Logo" />
 
 Miembros
  * :bust_in_silhouette:  Alonso Doña Martínez     :octocat:
@@ -168,29 +167,42 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P3/moodboard.png" alt="Moodboard" />
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P3/landing-page.png" alt="Landing Page" />
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+## Barra de Navegación
+Permite la navegación entre secciones clave de la página.
+
+## Carrousel
+Exhibe múltiples imágenes en un espacio reducido, como en la página principal.
+
+## Buscador
+Facilita la búsqueda de torneos u otros contenidos específicos.
+
+## Checkbox
+Permite seleccionar opciones múltiples o binarias, como en la inscripción.
+
+## Cuadro de Texto
+Permite al usuario introducir texto, útil en formularios, como en la inscripción.
+
+## Botón
+Facilita acciones clave en la interfaz de usuario, como enviar formularios o realizar acciones importantes.
+
+## Cards
+Muestran contenido de manera visualmente atractiva y organizada, como en la página principal.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+[Enlace al proyecto en Figma](https://www.figma.com/proto/8O8cnTDMgypnvIuf3dLeeO/Guidelines-%26-Layout?node-id=54541-1515&scaling=scale-down&page-id=54324%3A24835&starting-point-node-id=54496%3A67)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
