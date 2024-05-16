@@ -206,10 +206,13 @@ Muestran contenido de manera visualmente atractiva y organizada, como en la pág
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+Tras realizar todas las secciones previas hemos concluido definiendo una aplicación web que permite la gestión de un club de ajedrez ofreciendo
+diferentes funcionalidades como registro de usuario, consulta de torneos,inscripción de torneos,consulta de ranking, consulta de las instalaciones...
+todo de una forma cercana que transmite al usuario la sensación de encontrarse ante un club familiar donde puede aprender desde cero hasta competir contra
+los demás, de esta forma conseguimos atraer a un público muy extenso mostrando como nuestras actividades son para todas las edades.
+Finalmente se ofrece también la posibilidad de poder asistir a todos los torneos mediante la compra-venta de entradas para la que se ha 
+desarrollado un carro de la compra y una sección de tickets y pases.
+Con todo esto implementado queda finalizada la funcionalidad de la página ofreciendo un resultado estético y accesible.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
