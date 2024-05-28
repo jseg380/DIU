@@ -173,7 +173,7 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P3/landing-page.png" alt="Landing Page" />
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P3/nuevo-landing-page.png" alt="Landing Page" />
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
