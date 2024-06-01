@@ -117,29 +117,40 @@ Valoración final (numérica): 48
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/maste/P2/imagenes/Empathy Map [DIU23] (Copy).pdf" alt="Empathy Map" />
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/empathy_map.png" alt="Empathy Map" />
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/maste/P2/imagenes/Propuesta_valor+UXCanvas.pdf" />
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/Propuesta_valor.png" alt="ScopeCanvas" />
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
------
 
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/maste/P2/imagenes/Workflow.png" />
+-----
+| User Groups             | Jovenes | Adultos | Ancianos |
+|-------------------------|---------|---------|----------|
+| Registrarnos en la liga |    H    |    H    |    H     |
+| Apuntarnos a los torneos|    H    |    H    |    H     |
+| Consultar los resultados|    M    |    M    |    L     |
+| Consultar el lugar      |    M    |    M    |    M     |
+| Consultar el ranking    |    M    |    M    |    L     |
+| Darse de baja de torneo |    H    |    H    |    H     |
+| Consultar info de cada torneo | M | M | M |
+
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/Workflow.png" alt="Workflow" />
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/maste/P2/imagenes/Sitemap.png" />
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/Sitemap.png" alt="Sitemap" />
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/maste/P2/imagenes/boceto-practica2.pdf" />
-
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/boceto1.png" />
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/boceto2.png" />
+<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P2/imagenes/boceto3.png" />
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
