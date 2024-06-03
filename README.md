@@ -394,8 +394,11 @@ La prueba nos ha permitido detectar una serie de fallos que, si bien eran difíc
 
 
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Tras el proceso de realización del desarrollo de diseño, todo el equipo concuerda en que ha sido una experiencia muy positiva, con una curva de aprendizaje muy progresiva, lo que nos ha permitido pasar de tener muy pocos conocimientos a tener una base sólida. En cuanto al proyecto realizado, si bien hay ciertos aspectos que nosotros mismos, tras los conocimientos obtenidos, hemos detectado que se pueden mejorar, estamos bastante satisfechos.
 
+Además, hemos aprendido y practicado con aplicaciones punteras hoy en día en el mundo UI/UX como Figma, que nos puede aportar una base de conocimiento profesional.
 
+En conclusión, estamos muy satisfechos con el desarrollo de la asignatura y de las prácticas.
 
 
 
