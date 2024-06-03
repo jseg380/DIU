@@ -366,10 +366,8 @@ Como conclusión final, todos llegamos a la idea de que el caso B es una aplicac
 #### Recomendaciones y propuesta de mejoras:
 
 * (Puntos de mejora)
-
-  - Sería recomendable la implementación de un login o una opción para registrarse e iniciar sesión.
-  - Poco contraste en la portada entre la letra y el fondo.
-  - Faltaría la existencia de una consulta de la información de la cuenta.
+  - Poco contraste en la página inicio entre la letra y el fondo.
+  - Falta la posibilidad de poder arrastrar y observar todos los eventos y concursos disponibles
   - El tamaño de las cabeceras es excesivamente grande en ciertas secciones, provocando que se le dé más protagonismo visual que al propio contenido.
 
 #### Valoración de la prueba de usabilidad (self-assessment)
