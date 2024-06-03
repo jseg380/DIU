@@ -281,148 +281,103 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 # Usability Report
 
 
+# Usability Report
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 
 #### Evaluación de usabilidad del proyecto
 
-### (Azucareros Anónimos)
+### Azucareros Anónimos
 
-### (1/6/24)
-
-
+### 1/6/24
 
 
-
-[img Proyecto]
-
-[Enlace a GITHUB del proyecto]
-
-https://github.com/FranRIvas-UGR/DIU
-
-
+[Enlace a GITHUB del proyecto](https://github.com/FranRIvas-UGR/DIU)
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia]
 
+La experiencia con la página diseñada por el equipo ha sido muy positiva. En líneas generales, la página mantiene una estética uniforme: todas las fuentes, imágenes y estilos concuerdan. Además, presenta una barra de navegación sencilla pero útil, y una serie de actividades y funcionalidades que dan coherencia y utilidad a la página.
 
-La experiencia con la página diseñada por el equipo ha sido muy positiva, en líneas generales la página mantiene una
-estética uniforme, todas las fuentes, imágenes y estilos concuerdan, además presenta una barra de navegación sencilla pero útil y una serie de actividades y funcionalidades que dan coherencia y utilidad a la página
-
-
-
-## 1 DESCRIPCIÓN DEL WEBSITE
+## 1. DESCRIPCIÓN DEL WEBSITE
 
 [Incluir un breve resumen el propósito de la App]
 
-El propósito de la aplicación definida por nuestros compañeros es crear y desarrollar una página que permita la gestión de una empresa de actividades de repostería, ofreciendo la visualización de las actividades disponibles tanto eventos como concursos y un apartado para interactuar con otros integrantes de la comunidad.
+El propósito de la aplicación definida por nuestros compañeros es crear y desarrollar una página que permita la gestión de una empresa de actividades de repostería, ofreciendo la visualización de las actividades disponibles, tanto eventos como concursos, y un apartado para interactuar con otros integrantes de la comunidad.
 
+## 2. RESUMEN EJECUTIVO
 
+[Breve descripción de lo que contiene el documento y resumen conciso de problemas detectados]
 
-## 2 RESUMEN EJECUTIVO
+El documento contiene el análisis de las aplicaciones diseñadas por los grupos "Real Betis" y "Patos del Parque". Para su realización se han utilizado las siguientes técnicas: A/B Testing donde han participado los siguientes roles de usuarios:
 
+- Hombre, 34 años, con experiencia baja en tecnología y cuya profesión es artista.
+- Mujer, 23 años, con experiencia avanzada en tecnología y cuya ocupación es fotógrafa.
+- Mujer, 59 años, estudiante con experiencia intermedia en tecnología.
+- Hombre, 27 años, deportista y con experiencia baja en tecnología.
 
+Una vez realizado el A/B Testing, se ha procedido a calcular su puntuación SUS. Posteriormente, se ha realizado un análisis del eyetracking de la página para visualizar el foco de atención del usuario. Finalmente, se ha realizado una conclusión de las pruebas y de la calidad de la página.
 
-[ Breve descripción de lo que contiene el documento
+Para los problemas detectados, encontramos en primer lugar en el título un mal contraste entre las letras de los títulos rosas y el contenido blanco. En cada sección, la cabecera es de un tamaño excesivamente grande, dándole más importancia que al propio contenido de la sección. Por último, las secciones de concursos y sesiones tienen un diseño completamente idéntico, lo que provoca que sea difícil percibir su diferencia.
 
-y Resumen conciso de problemas detectados ]
+## 3. METODOLOGÍA
 
-El documento contiene el análisis de las aplicaciones diseñadas por el grupo "Real Betis" y "Patos del Parque", para su realización se han
-realizado las siguientes técnicas: A/b Testing donde han participado los siguientes roles de usuarios:
-- Hombre,34 años, con experiencia baja en tecnología y cuya profesión es artista.
-- Mujer,23 años, con experiencia avanzada en tecnología y cuya ocupación es fotógrafa.
-- Mujer,59 años, estudiante con experiencia intermedia en tecnología.
-- Hombre, 27 años deportista y con experiencia baja en tecnología
+#### Metodología de usabilidad
 
-Una vez realizado el A/B Testing se ha procedido a calcular su puntuación SUS.
-Posteriormente se ha realizado un análisis del eyetracking de la página para visualizar el foco de atención del usuario.
-Finalmente se ha realizado una conclusión de las pruebas y de la calidad de la página.
+[Metodología, sesiones, técnicas aplicadas...]
 
-Para los problemas detectados encontramos en primer lugar en el título un mal contraste entre las letras de los titulos rosas y con contenido blanco.
-En cada sección la cabecera es de un tamaño excesivamente grande dandole más importancia que al propio contenido de la sección.
-Por último las secciones concursos y sesiones tienen un diseño completamente idéntico lo que provoca que sea difícil percibir su diferencia.
-
-
-## 3 METODOLOGIA
-
-#### Metodología de usabililidad
-
-[Metodología, sesiones,  técnicas aplicadas... ]
-
-Las técnicas para evaluar la usabilidad del proyecto "Azucareros Anónimos", han sido el eyetracking y el A/B Testing,
-a continuación se va a pasar a mostrar los resultados y análisis de cada sección.
-Para el eyetracking se analizó como los ususarios interactúan visualmente con la interfaz.
-Para el A/B Testing se comparó tanto nuestra página diseñada como la de nuestros compañeros desde el punto de vista
-de usuarios con características diferentes, lo que nos permitirá comprobar cuál tiene mejor navegación,comprensión y facilidad de uso.
-
+Las técnicas para evaluar la usabilidad del proyecto "Azucareros Anónimos" han sido el eyetracking y el A/B Testing. A continuación, se muestran los resultados y análisis de cada sección. Para el eyetracking, se analizó cómo los usuarios interactúan visualmente con la interfaz. Para el A/B Testing, se comparó tanto nuestra página diseñada como la de nuestros compañeros desde el punto de vista de usuarios con características diferentes, lo que nos permitió comprobar cuál tiene mejor navegación, comprensión y facilidad de uso.
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+[Tabla, ejemplo, descripción demográfica de los participantes]
 
-
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P4/tabla-user.png" alt="Usuarios" />
-
+![Usuarios](https://raw.githubusercontent.com/jseg380/DIU/master/P4/tabla-user.png)
 
 #### Resultados obtenidos
 
+(Resultado de SUS)
 
+![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario%20SUS%20DIU.xlsx%20-%20Sheet1.pdf)
 
-(resultado de SUS)
+Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tipo C GOOD). En el caso de la aplicación A, los resultados han sido de 70 (Tipo C GOOD) y 80 (Tipo B EXCELLENT).
 
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario SUS DIU.xlsx - Sheet1.pdf" alt="Resultados SUS" />
+(Resultado de eyetracking)
 
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona2.png)
 
-Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tipo C GOOD), en el caso de la aplicación A los resultados han sido
-de 70 (Tipo C GOOD) y 80 (Tipo B EXCELLENT)
+Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena estructura, aunque tienen apartados a mejorar.
 
-(resultado de eyetracking)
+## 4. CONCLUSIONES
 
-<p><img src="https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona2.png" alt="Journey Map Persona2" />
+(Qué podemos extraer de conclusión con las pruebas de usabilidad efectuadas)
 
-Como conclusión ambas aplicaciones están bien diseñadas y tienen una buena estructura aunque tienen apartados a mejorar.
-
-
-## 4 CONCLUSIONES
-
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-Como conclusión final todos llegamos a la idea de que el caso B es una aplicación funcional que permita de forma sencilla y entendible realizar las distintas tareas y funcionalidades que ofrece, además cumple bastante bien toda la funcionalidad necesaria necesaria para una aplicación para eventos y actividades de repostería, la interfaz es sencilla con un diseño claro y con una tipografía y paleta de colores bien escogidas que encajan con la idea.
-En general la página ha pasado las pruebas de forma positiva lo que refuerza la idea de que la página está bien diseñada.
-
+Como conclusión final, todos llegamos a la idea de que el caso B es una aplicación funcional que permite de forma sencilla y entendible realizar las distintas tareas y funcionalidades que ofrece. Además, cumple bastante bien con toda la funcionalidad necesaria para una aplicación de eventos y actividades de repostería. La interfaz es sencilla, con un diseño claro y con una tipografía y paleta de colores bien escogidas que encajan con la idea. En general, la página ha pasado las pruebas de forma positiva, lo que refuerza la idea de que la página está bien diseñada.
 
 #### Valoración
 
 * (Puntos Positivos a destacar)
 
-La estética en general de la página, la tipografía y la paleta de colores.
-La funcionalidad implementada es correcta y cubre todas las necesidades de la página.
-Los formularios son claros y sencillos y encajan con la estética.
-Navegación clara y bien estructurada.
+  - La estética en general de la página, la tipografía y la paleta de colores.
+  - La funcionalidad implementada es correcta y cubre todas las necesidades de la página.
+  - Los formularios son claros y sencillos y encajan con la estética.
+  - Navegación clara y bien estructurada.
 
 #### Recomendaciones y propuesta de mejoras:
 
 * (Puntos de mejora)
 
-Sería recomendable la realización de un login o una opción para registrarse e iniciar sesión.
-Poco contraste en la portada entre la letra y el fondo.
-Faltaría la existencia de una consulta de la información de tu cuenta.
-El tamaño de las cabeceras es excesivamente grande en ciertas secciones provocando que se le de más
-protagonismo visual que al propio contenido.
+  - Sería recomendable la implementación de un login o una opción para registrarse e iniciar sesión.
+  - Poco contraste en la portada entre la letra y el fondo.
+  - Faltaría la existencia de una consulta de la información de la cuenta.
+  - El tamaño de las cabeceras es excesivamente grande en ciertas secciones, provocando que se le dé más protagonismo visual que al propio contenido.
 
-#### Valoración de la prueba de usabilidad (self-assesment)
+#### Valoración de la prueba de usabilidad (self-assessment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+(Valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o fallos de usabilidad en este caso)
 
-La prueba nos ha permitido detectar una serie de fallos que si bien eran dificiles de percibir de primeras afectan bastante a la
-experiencia del usuario, en especial las técnicas de comparación usando varios usuarios con características diferentes te permite
-entender y ver ciertos aspectos que aunque para nosotros sean lógicos para otra persona puede ser difícil de entender, sobretodo
-conceptos básicos que a nosotros mientras creamos la página nos parecen evidente pueden resultar difíciles de entender para otros.
-
-
+La prueba nos ha permitido detectar una serie de fallos que, si bien eran difíciles de percibir de primeras, afectan bastante a la experiencia del usuario. En especial, las técnicas de comparación usando varios usuarios con características diferentes te permiten entender y ver ciertos aspectos que, aunque para nosotros sean lógicos, para otra persona pueden ser difíciles de entender. Sobre todo, conceptos básicos que a nosotros, mientras creamos la página, nos parecen evidentes pueden resultar difíciles de entender para otros.
 
 
 
