@@ -223,17 +223,19 @@ Las tareas a evaluar son:
 - Observación página inicial
 - Observación página torneos/concurso
 
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/5A.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/5B.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/51A.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/51B.png)
 
 Resultados y valoración 
 -----
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
+
+
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
+![eyetracking](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
 
 
 ## Paso 4. Evaluación 
@@ -341,6 +343,8 @@ Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena e
 
 ![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
 ![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
+
+
 ![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
 ![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
 
