@@ -281,8 +281,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 # Usability Report
 
 
-# Usability Report
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 
 #### Evaluación de usabilidad del proyecto
@@ -334,9 +332,10 @@ Las técnicas para evaluar la usabilidad del proyecto "Azucareros Anónimos" han
 #### Resultados obtenidos
 
 
-![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario%20SUS%20DIU.xlsx%20-%20Sheet1.pdf)
+![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario_SUS_DIU.pdf)
 
 Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tipo C GOOD). En el caso de la aplicación A, los resultados han sido de 70 (Tipo C GOOD) y 80 (Tipo B EXCELLENT).
+Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena estructura ya que con variedad de roles de usuarios diferentes los resultados siguen siendo positivos, aun así tienen apartados a mejorar.
 
 (Resultado de eyetracking)
 
@@ -345,7 +344,7 @@ Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tip
 ![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
 ![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
 
-Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena estructura, aunque tienen apartados a mejorar.
+
 
 ## 4. CONCLUSIONES
 
@@ -373,9 +372,6 @@ Como conclusión final, todos llegamos a la idea de que el caso B es una aplicac
 
 
 La prueba nos ha permitido detectar una serie de fallos que, si bien eran difíciles de percibir de primeras, afectan bastante a la experiencia del usuario. En especial, las técnicas de comparación usando varios usuarios con características diferentes te permiten entender y ver ciertos aspectos que, aunque para nosotros sean lógicos, para otra persona pueden ser difíciles de entender. Sobre todo, conceptos básicos que a nosotros, mientras creamos la página, nos parecen evidentes pueden resultar difíciles de entender para otros.
-
-
-
 
 
 
