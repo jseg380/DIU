@@ -213,28 +213,27 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+Para realizar la comparación mediante Eye Tracking de las dos aplicaciones diseñadas contaremos con los 4 usuarios definidos de forma que
+podamos obtener una prueba real de diferentes personas interactuando visualmente con la página, estos mismos usuarios serán los encargados
+de realizar el cuestionario SUS,  
 
 Diseño del experimento 
 ----
+Las tareas a evaluar son:
+- Observación página inicial
+- Observación página torneos/concurso
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
 
 Resultados y valoración 
 -----
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
 
 
 ## Paso 4. Evaluación 
