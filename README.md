@@ -242,10 +242,9 @@ Resultados y valoración
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+El caso asignado es una página que permita la gestión de una empresa de actividades de repostería, ofreciendo la visualización de las actividades disponibles, tanto eventos como concursos, y un apartado para interactuar con otros integrantes de la comunidad.
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+[Enlace a GITHUB del proyecto](https://github.com/FranRIvas-UGR/DIU)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -255,10 +254,10 @@ Resultados y valoración
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Antonio       | H / 64   | Pintor      | Bajo        | Temeroso     | Windows.   | A 
+| Laura         | M / 23   | Fotógrafa   | Avanzada    | Aventurera   | Phone      | A 
+| Mónica        | M / 59   | Estudiante  | Intermedia  | Apasionada   | Linux      | B 
+| Raúl          | H / 27   | Deportista  | Bajo        | Enfadadizo   | Windows    | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -269,7 +268,9 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario_SUS_DIU.png)
+Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tipo C GOOD). En el caso de la aplicación A, los resultados han sido de 70 (Tipo C GOOD) y 80 (Tipo B EXCELLENT).
+Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena estructura ya que con variedad de roles de usuarios diferentes los resultados siguen siendo positivos, aun así tienen apartados a mejorar.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -306,7 +307,7 @@ El propósito de la aplicación definida por nuestros compañeros es crear y des
 
 El documento contiene el análisis de las aplicaciones diseñadas por los grupos "Real Betis" y "Patos del Parque". Para su realización se han utilizado las siguientes técnicas: A/B Testing donde han participado los siguientes roles de usuarios:
 
-- Hombre, 34 años, con experiencia baja en tecnología y cuya profesión es artista.
+- Hombre, 64 años, con experiencia baja en tecnología y cuya profesión es pintor.
 - Mujer, 23 años, con experiencia avanzada en tecnología y cuya ocupación es fotógrafa.
 - Mujer, 59 años, estudiante con experiencia intermedia en tecnología.
 - Hombre, 27 años, deportista y con experiencia baja en tecnología.
@@ -332,7 +333,7 @@ Las técnicas para evaluar la usabilidad del proyecto "Azucareros Anónimos" han
 #### Resultados obtenidos
 
 
-![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario_SUS_DIU.pdf)
+![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario_SUS_DIU.png)
 
 Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tipo C GOOD). En el caso de la aplicación A, los resultados han sido de 70 (Tipo C GOOD) y 80 (Tipo B EXCELLENT).
 Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena estructura ya que con variedad de roles de usuarios diferentes los resultados siguen siendo positivos, aun así tienen apartados a mejorar.
