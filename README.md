@@ -296,19 +296,15 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia]
+Grupo Patos del Parque, formado por Alonso Doña, Jose Ramón Plaza y Juan Manuel Segura.
 
-La experiencia con la página diseñada por el equipo ha sido muy positiva. En líneas generales, la página mantiene una estética uniforme: todas las fuentes, imágenes y estilos concuerdan. Además, presenta una barra de navegación sencilla pero útil, y una serie de actividades y funcionalidades que dan coherencia y utilidad a la página.
+La experiencia con la práctica ha sido positiva. En líneas generales, nos ha permitido aprender a detectar errores y aplicar técnicas y métodos para calificar la calidad de nuestros diseños web.
 
 ## 1. DESCRIPCIÓN DEL WEBSITE
-
-[Incluir un breve resumen el propósito de la App]
 
 El propósito de la aplicación definida por nuestros compañeros es crear y desarrollar una página que permita la gestión de una empresa de actividades de repostería, ofreciendo la visualización de las actividades disponibles, tanto eventos como concursos, y un apartado para interactuar con otros integrantes de la comunidad.
 
 ## 2. RESUMEN EJECUTIVO
-
-[Breve descripción de lo que contiene el documento y resumen conciso de problemas detectados]
 
 El documento contiene el análisis de las aplicaciones diseñadas por los grupos "Real Betis" y "Patos del Parque". Para su realización se han utilizado las siguientes técnicas: A/B Testing donde han participado los siguientes roles de usuarios:
 
@@ -337,7 +333,6 @@ Las técnicas para evaluar la usabilidad del proyecto "Azucareros Anónimos" han
 
 #### Resultados obtenidos
 
-(Resultado de SUS)
 
 ![Resultados SUS](https://raw.githubusercontent.com/jseg380/DIU/master/P4/Cuestionario%20SUS%20DIU.xlsx%20-%20Sheet1.pdf)
 
@@ -345,13 +340,14 @@ Los resultados SUS para el caso B han sido de 85 (Tipo B EXCELLENT) y de 70 (Tip
 
 (Resultado de eyetracking)
 
-![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P1/images/journey-map-persona2.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking1-B.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking-2.png)
+![Journey Map Persona2](https://raw.githubusercontent.com/jseg380/DIU/master/P4/eyetracking2-B.png)
 
 Como conclusión, ambas aplicaciones están bien diseñadas y tienen una buena estructura, aunque tienen apartados a mejorar.
 
 ## 4. CONCLUSIONES
-
-(Qué podemos extraer de conclusión con las pruebas de usabilidad efectuadas)
 
 Como conclusión final, todos llegamos a la idea de que el caso B es una aplicación funcional que permite de forma sencilla y entendible realizar las distintas tareas y funcionalidades que ofrece. Además, cumple bastante bien con toda la funcionalidad necesaria para una aplicación de eventos y actividades de repostería. La interfaz es sencilla, con un diseño claro y con una tipografía y paleta de colores bien escogidas que encajan con la idea. En general, la página ha pasado las pruebas de forma positiva, lo que refuerza la idea de que la página está bien diseñada.
 
@@ -375,10 +371,8 @@ Como conclusión final, todos llegamos a la idea de que el caso B es una aplicac
 
 #### Valoración de la prueba de usabilidad (self-assessment)
 
-(Valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o fallos de usabilidad en este caso)
 
 La prueba nos ha permitido detectar una serie de fallos que, si bien eran difíciles de percibir de primeras, afectan bastante a la experiencia del usuario. En especial, las técnicas de comparación usando varios usuarios con características diferentes te permiten entender y ver ciertos aspectos que, aunque para nosotros sean lógicos, para otra persona pueden ser difíciles de entender. Sobre todo, conceptos básicos que a nosotros, mientras creamos la página, nos parecen evidentes pueden resultar difíciles de entender para otros.
-
 
 
 
